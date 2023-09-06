@@ -136,14 +136,14 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: 'Software Developer',
-    description: '',
-    company_name: 'IBM',
-    icon: ibmicon,
-    iconBg: '#333333',
-    date: 'September 2023 - Current',
-},
+//   {
+//     title: 'Software Developer',
+//     description: '',
+//     company_name: 'IBM',
+//     icon: ibmicon,
+//     iconBg: '#333333',
+//     date: 'September 2023 - Current',
+// },
 {
     title: 'Software Engineer',
     company_name: 'Property Pvt Ltd',
