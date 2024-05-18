@@ -33,9 +33,9 @@ const Contact = () => {
         'template_xjr11m1', // paste your TemplateID here (you'll find it under email templates).
         {
           from_name: form.name,
-          to_name: 'YourName', // put your name here.
+          to_name: 'Umar Firoz', // put your name here.
           from_email: form.email,
-          to_email: 'umar9897222@gmail.com', //put your email here.
+          to_email: 'pixtchers@gmail.com', //put your email here.
           message: form.message,
         },
         'eHt7-3KuaEXm-E8Ad' //paste your Public Key here. You'll get it in your profile section.
@@ -43,7 +43,7 @@ const Contact = () => {
       .then(
         () => {
           setLoading(false);
-          alert('Thank you. I will get back to you as soon as possible.');
+          alert('Thank you. I will get back to you as soon as possible. You can contact me at pixtchers@gmail.com');
 
           setForm({
             name: '',
