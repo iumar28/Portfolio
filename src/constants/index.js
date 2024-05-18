@@ -6,7 +6,7 @@ import {
   ecommerce,
   ibmicon,
   glabbricon,
-  propicon,
+  leadzen,
   ux,
   prototyping,
   javascript,
@@ -21,18 +21,7 @@ import {
   figma,
   docker,
   postgresql,
-  rubyrails,
   graphql,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
   superspace,
   property10x,
   knyo,
@@ -136,28 +125,25 @@ const technologies = [
 ];
 
 const experiences = [
-//   {
-//     title: 'Software Developer',
-//     description: '',
-//     company_name: 'IBM',
-//     icon: ibmicon,
-//     iconBg: '#333333',
-//     date: 'September 2023 - Current',
-// },
-{
-    title: 'Software Engineer',
-    company_name: 'Property Pvt Ltd',
-    description: 'As a Full Stack Developer at Property10X, I was part of a revolutionary team that is transforming the real \
-                  estate industry through advanced technology solutions. I played a crucial role in designing and developing a \
-                  cutting-edge real estate software platform that allows real estate users to post properties for Buy, Sell, Rent, \
-                  and stay up-to-date with the latest news, trends, and projects. Working with ExpressJS, ReactJS, NodeJS, Firebase, \
-                  Tailwind-CSS, and Bootstrap5, I contributed to the server-side application logic, RESTful APIs development, and \
-                  data storage and retrieval implementation. My focus was on ensuring smooth and secure transactions by integrating \
-                  various third-party APIs and modules. The platform was rigorously tested to guarantee the highest quality, security, \
-                  and reliability.',
-    icon: propicon,
+  {
+    title: 'Software Developer',
+    description: '',
+    company_name: 'IBM',
+    icon: ibmicon,
     iconBg: '#333333',
-    date: 'Jan 2022 - June 2023',
+    date: 'December 2023 - Current',
+},
+{
+    title: 'SDE1',
+    company_name: 'Leadzen ai',
+    description: `As an SDE, I played a pivotal role in the development of an AI-powered interactive content platform aimed at 
+                  transforming the customer journey. I contributed to key features including seamless screen recording conversion 
+                  into interactive demos and guides, integration via the Chrome extension framework, and implementation of AI-generated 
+                  voiceovers and caption. My contributions reflect my proficiency in software development and dedication to delivering 
+                  innovative solutions that enhance user engagement and productivity.`,
+    icon: leadzen,
+    iconBg: '#333333',
+    date: 'Jan 2023 - December 2023',
   },
   {
     title: 'Software Engineer Intern',

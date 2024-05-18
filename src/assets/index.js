@@ -62,6 +62,7 @@ import property10x from './projects/property10x.jpg'
 import glabbricon from './company/glabbricon.jpg';
 import propicon from './company/property10xicon.jpg'
 import ibmicon from './company/ibm.jpg';
+import leadzen from './company/leadzen.jpg';
 
 import wordpress from './icons/wordpress.png';
 import shopify from './icons/shopify.png';
@@ -71,6 +72,7 @@ import ecommerce from './icons/ecommerce.png';
 
 
 export {
+  leadzen,
   knyocloud,
   superspace,
   property10x,
