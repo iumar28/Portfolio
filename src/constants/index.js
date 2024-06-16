@@ -225,7 +225,7 @@ const projects = [
     ],
     image: superspace,
     repo: 'https://github.com/iumar28',
-    demo: 'https://app.netlify.com/sites/creative-sable-c28d11/overview',
+    demo: 'https://superspace.netlify.app/',
   },
   // {
   //   id: 'project-4',
